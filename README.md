@@ -30,14 +30,14 @@
 
 ### 💰 Expense Tracker  
 📌 Tracks expenses, categories, and spending patterns  
-🔧 Tech: Python  
+🔧 Tech: FastAPI + PostgreSQL  
 🔗 https://github.com/VP1107/Expense_Tracker  
 
 ---
 
 ### 🍽️ Restaurant Management System  
 📌 Handles orders, billing, and menu operations  
-🔧 Tech: Python  
+🔧 Tech: FastAPI + React  
 🔗 https://github.com/VP1107/Restaurant_Managment_System  
 
 ---
@@ -46,6 +46,13 @@
 📌 Manages student data and records efficiently  
 🔧 Tech: Python  
 🔗 https://github.com/VP1107/student-management-system  
+
+---
+
+### 🎬 Cinematographer Portfolio  
+📌 Portfolio site with CMS dashboard for a cinematography client  
+🔧 Tech: React + Vite  
+🔗 https://github.com/VP1107/cinematographer  
 
 ---
 
@@ -92,7 +99,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/vatsal-pandya-30a946274"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:vatsalpandya2007@gmial.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:vatsalpandya2007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
